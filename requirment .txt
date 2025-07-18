@@ -1,0 +1,29 @@
+# Core dependencies
+pdfplumber==0.10.2
+PyPDF2==3.0.1
+requests==2.31.0
+
+# LLM and embeddings
+sentence-transformers==2.2.2
+transformers==4.41.1
+torch==2.3.0
+accelerate==0.30.1
+
+# Audio generation
+gTTS==2.5.1
+
+# For JSON and MP3 handling (standard lib, just for clarity)
+pydub==0.25.1
+
+# Streamlit (optional frontend)
+streamlit==1.35.0
+
+# FastAPI + Uvicorn (if you use a backend server)
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# For retry logic and caching
+tenacity==8.2.3
+
+# If using Together API
+httpx==0.27.0

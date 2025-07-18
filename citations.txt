@@ -1,0 +1,5 @@
+RESEARCH PAPER CITATIONS
+==================================================
+
+1. Muhammad Hussain (2023). YOLO-v1 to YOLO-v8, the Rise of YOLO and Its Complementary Nature toward Digital Manufacturing and Industrial Defect Detection. *Machines*. https://doi.org/10.3390/machines11070677
+
